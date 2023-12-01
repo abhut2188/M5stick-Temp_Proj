@@ -1,4 +1,4 @@
-# M5stick-_temp
+# M5stick-Temp_Proj
 Source code for Emerging Tech Report
 
 sketch_webserv_demo_colorv2.ino - M5 Stick code on 1st stick to read the climate data from the stick and send it to a webserver - This was demoed during the presentation
